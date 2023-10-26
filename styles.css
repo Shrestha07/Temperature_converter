@@ -1,0 +1,12 @@
+html {
+    background-color: antiquewhite;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+#container {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 200px;
+}
